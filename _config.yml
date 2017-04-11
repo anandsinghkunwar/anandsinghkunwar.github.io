@@ -30,10 +30,10 @@ email: anandkunwar95@gmail.com
 navigation:
   - text: Home
     url: /
-  - text: Docs
-    url: /docs
-  - text: Examples
-    url: /examples
+  - text: Projects
+    url: /projects
+  - text: Blog
+    url: /blog
 
 projects:
   - name: git-secret

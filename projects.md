@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: docs
+permalink: projects
 ---
 
-# Docs
+# Projects
 
 ## Configuration
 
