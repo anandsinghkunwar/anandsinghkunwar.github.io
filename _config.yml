@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: jekyll-theme-hackcss
+title: A Hacker's Tale
 description: > # this means to ignore newlines until "baseurl:"
-  A minimalistic theme for Jekyll, based on hack.css
+  My Journey as a Software Developer
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
 baseurl: /jekyll-theme-hackcss  # the subpath of your site, e.g. /blog
 url: https://wemake-services.github.io  # the base hostname & protocol for your site
@@ -53,11 +53,11 @@ projects:
 
 social:
   - service: github
-    username: sobolevn
-    link: https://github.com/sobolevn
+    username: anandsinghkunwar
+    link: https://github.com/anandsinghkunwar
   - service: twitter
-    username: sobolevn
-    link: https://twitter.com/sobolevn
+    username: anandkunwar
+    link: https://twitter.com/anandkunwar
 
 # Plugins
 gems:
