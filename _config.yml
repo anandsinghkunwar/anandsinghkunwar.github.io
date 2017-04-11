@@ -25,7 +25,7 @@ theme_mode: dark  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: Anand Singh Kunwar
-email: anandkunwar95@gmail.com
+email: anandkunwar95[at]gmail[dot]com
 
 navigation:
   - text: Home
