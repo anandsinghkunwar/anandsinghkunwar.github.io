@@ -9,7 +9,7 @@
 title: A Hacker's Tale
 description: > # this means to ignore newlines until "baseurl:"
   My Journey as a Software Developer
-repository: https://github.com/anandsinghkunwar/anandsinghkunwar.github.io
+repository: https://github.com/anandsinghkunwar
 baseurl:   # the subpath of your site, e.g. /blog
 url: https://anandsinghkunwar.github.io  # the base hostname & protocol for your site
 
