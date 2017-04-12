@@ -64,3 +64,7 @@ social:
 # Plugins
 gems:
   - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/blog/page:num/"
