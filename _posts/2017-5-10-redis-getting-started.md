@@ -27,10 +27,15 @@ application using `QUIT` command. Redis is like a key-value pair, where the
 value instead of being just string can also be a data structure. You can read
 more about them [here](https://redis.io/topics/data-types-intro). 
 
-On getting the client prompt, try using the `GET` and `SET` commands. For,
+* On getting the client prompt, try using the `GET` and `SET` commands. For,
 instance `SET foo 99` will set key `foo` to `99`. Similarly, `GET foo` will
-return `99`. You can also check whether a key-value pair exists by the `EXISTS`
+return `99`. 
+* You can also check whether a key-value pair exists by the `EXISTS`
 command. For instance `EXISTS foo` after running `SET foo 99` will return 1
-(true). You can also delete `foo` using `DEL foo`. You can also set expirations
-by `EXPIRE foo 20` for a 20 second expiration. Using `TTL foo`, we can find the
-time left for foo to expire. 
+(true). 
+* You can also delete `foo` using `DEL foo`. 
+* You can also set expirations by `EXPIRE foo 20` for a 20 second expiration. 
+Using `TTL foo`, we can find the time left for foo to expire. 
+
+You can explore the Redis client more from 
+[here](https://redis.io/topics/rediscli).
