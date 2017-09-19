@@ -30,28 +30,28 @@ email: anandkunwar95[at]gmail.com
 navigation:
   - text: Home
     url: /
-  - text: Projects
-    url: /projects
+#  - text: Projects
+#    url: /projects
   - text: Blog
     url: /blog
 
-#projects:
-#  - name: generic-project-1
-#    description: The first and the most famous project, yet to be decided.
-#    link: https://anandsinghkunwar.github.io
-#    image: images/1.jpg
-#  - name: generic-project-2
-#    description: A project that almost wasn't a project.
-#    link: https://anandsinghkunwar.github.io
-#    image: images/2.jpg
-#  - name: generic-project-3
-#    image: images/3.jpg
-#    description: Penultimate project's generic description that makes no sense at all.
-#    link: https://anandsinghkunwar.github.io
-#  - name: generic-project-4
-#    image: images/4.jpg
-#    description: An awesome description to describe this final project.
-#    link: https://anandsinghkunwar.github.io
+projects:
+  - name: generic-project-1
+    description: The first and the most famous project, yet to be decided.
+    link: https://anandsinghkunwar.github.io
+    image: images/1.jpg
+  - name: generic-project-2
+    description: A project that almost wasn't a project.
+    link: https://anandsinghkunwar.github.io
+    image: images/2.jpg
+  - name: generic-project-3
+    image: images/3.jpg
+    description: Penultimate project's generic description that makes no sense at all.
+    link: https://anandsinghkunwar.github.io
+  - name: generic-project-4
+    image: images/4.jpg
+    description: An awesome description to describe this final project.
+    link: https://anandsinghkunwar.github.io
 
 social:
   - service: github
